@@ -2,6 +2,7 @@
 Nashville Housing Price Data Cleaning using Structured Query Language (SQL)
 
 Software Used: Microsoft SQL Server Management Studio 18
+
 Dataset: https://www.kaggle.com/tmthyjames/nashville-housing-data
 
 This Data Cleaning Project contains query for the following features:
